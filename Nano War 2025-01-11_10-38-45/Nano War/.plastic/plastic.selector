@@ -1,0 +1,4 @@
+repository "Nano War 2025-01-11_10-38-45/Nano War@13469784412384@cloud"
+  path "/"
+    br "/main"
+    co "/main"
